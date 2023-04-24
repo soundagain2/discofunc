@@ -1,0 +1,2 @@
+# discofunc
+Execute functions discontinuosly.
